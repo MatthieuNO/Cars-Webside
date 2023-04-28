@@ -1,0 +1,41 @@
+.sect3 {
+    background-color: black;
+}
+
+.sect3 .container {
+    width: 1140px;
+    margin: 0 auto;
+    min-height: 510px;
+}
+
+.sect3 h3 {
+    font-size: 36px;
+}
+
+.sect3 h2 {
+    font-size: 4.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 24px 13px 30px 97px;
+    color: #facd3d;
+}
+
+.sect3 .infos1 {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.sect3 .infos2 {
+    display: flex;
+}
+
+.sect3 .infos2 p {
+    font-size: 0.875rem;
+    margin: 20px 0 30px;
+}
+
+.sect3 .cards {
+    border: 10px solid transparent;
+    padding-left: 20px;
+    padding-right: 20px;
+}

@@ -1,0 +1,47 @@
+.sect5 {
+    background-color: black;
+    position: relative;  
+}
+
+
+
+.sect5 img {
+    width: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 663px;
+    margin-top: 221px;
+}
+
+.sect5 .infos {
+    width: 1140px;
+    min-height: 883px;
+    margin: -883px auto 0;
+}
+
+.sect5 .infos2 {
+    width: 570px;
+    min-height: 372px;
+    margin: 70px 0 90px auto;
+    text-align: right;
+}
+
+.sect5 h2 {
+    font-size: 4.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #facd3d;
+}
+
+.sect5 h3 {
+    font-size: 36px;
+}
+
+.sect5 a {
+    display: inline-block;
+    text-decoration: none;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #facd3d;
+}

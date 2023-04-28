@@ -1,0 +1,68 @@
+.sect2 {
+    background-color: black;
+    position: relative;
+}
+
+.sect2 img {
+    height: 719px;
+    margin-top: 78px;
+    object-fit: cover;
+    width: 100%;
+}
+.sect2 .layout {
+    margin: 33px auto 0 0;
+}
+
+.sect2 .infos {
+    margin-top: 78px;
+    display: flex;
+    width: 1140px;
+    min-height: 799px;
+    margin: -796px auto 0;
+}
+
+.sect2 h3 {
+    font-size: 32px;
+}
+
+.sect2 h2 {
+    font-size: 72px;
+    color: #facd3d;
+    margin: 7px 20px 0 0;
+}
+
+.sect2 .text1 {
+    font-size: 0.875rem;
+    margin: 109px 121px 60px 0;
+    line-height: 1.6;
+}
+
+.sect2 .world {
+    font-weight: 700;
+    font-size: 2.25rem;
+    margin: 20px 20px 0 0;
+}
+
+.sect2 .text2 {
+    font-size: 14px;
+    font-size: 0.875rem;
+    margin: 44px 121px 0 0;
+    line-height: 1.6;
+}
+
+.sect2  .infos2 a {
+    display: inline-block;
+    text-decoration: none;
+    padding-bottom: 2px;
+    margin: 64px auto 60px 0;
+    border-bottom: 2px solid #facd3d;
+}
+
+.sect2 .infos2 {
+    width: 100%;
+}
+
+
+.sect2 .infos1 {
+    width: 100%;
+}

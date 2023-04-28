@@ -1,0 +1,22 @@
+.sect7 {
+    display: grid;
+}
+
+.sect7 .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sect7 img {
+    max-height: 446px;
+    width: 100%;
+  
+}
+
+.sect7 .row1 {
+    display: flex;
+}
+
+.sect7 .row2 {
+    display: flex;
+}

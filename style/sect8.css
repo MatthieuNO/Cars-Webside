@@ -1,0 +1,71 @@
+.sect8 {
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../images/intérieur.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.sect8 .container {
+    position: relative;
+    height: 543px;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.sect8 .container2 {
+    margin: 72px auto 72px 0;
+    position: absolute;
+    width: 100%;
+}
+
+.sect8 .layout {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 100%;
+    max-width: 100%;
+}
+
+.sect8 h2 {
+    font-size: 4.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #facd3d;
+    margin: 20px 20px 0 0;
+}
+
+.sect8 p {
+    font-size: 0.875rem;
+    margin: 20px 135px 0 0;
+}
+
+.sect8 h3 {
+    font-size: 36px;
+    margin-top: 30px;
+}
+
+
+.sect8 .form2 {
+    margin: 15px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    background-color: none;
+}
+
+.sect8 input, textarea  {
+    margin-bottom: 15px;
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 12px;
+    background-image: none;
+    background-clip: padding-box;
+    border: none;
+    width: 100%;
+    color: inherit;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
